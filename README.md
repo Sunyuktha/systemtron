@@ -20,9 +20,33 @@ This is a simple and responsive **Calculator Web Application** developed as part
 - CSS3
 - JavaScript
 
-## Project Status
+# 🎬 Netflix Clone Website
 
-✅ **Completed** – Task 1 for Internship
+A responsive **Netflix landing page clone** built using **HTML** and **CSS**. This project mimics the front-end layout of Netflix's official homepage and demonstrates responsive web design skills.
+
+---
+
+## 🚀 Features
+
+- 📱 Fully responsive layout (mobile + desktop)
+- 🎥 Hero section with email subscription input
+- 🧩 Multiple sections showcasing Netflix features
+- ❓ Accordion-style FAQ section
+- 🔗 Footer with multiple link groups
+- 🎨 Clean, readable, and modular code
+
+---
+
+## 🖼️ Screenshots
+
+> Add screenshots here once the project is live or hosted
+
+---
+
+## 💻 Tech Stack
+
+- HTML5
+- CSS3
 
 ## Author
 
