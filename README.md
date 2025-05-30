@@ -5,7 +5,7 @@ This is a simple and responsive **Calculator Web Application** developed as part
 ## Features
 
 - Perform basic arithmetic operations:  
-  ➕ Addition  
+  ➕ Addition 
   ➖ Subtraction  
   ✖️ Multiplication  
   ➗ Division
