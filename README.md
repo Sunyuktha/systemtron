@@ -34,13 +34,7 @@ A responsive **Netflix landing page clone** built using **HTML** and **CSS**. Th
 - ❓ Accordion-style FAQ section
 - 🔗 Footer with multiple link groups
 - 🎨 Clean, readable, and modular code
-
----
-
-## 🖼️ Screenshots
-
-> Add screenshots here once the project is live or hosted
-
+  
 ---
 
 ## 💻 Tech Stack
