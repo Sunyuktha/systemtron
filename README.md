@@ -13,13 +13,6 @@ This is a simple and responsive **Calculator Web Application** developed as part
 - Responsive design for all screen sizes
 - Built with **HTML**, **CSS**, and **JavaScript**
 
-## Screenshots
-
-*(Add screenshots here if available)*
-
-## Demo
-
-[Live Demo Link](#) *(Optional – if hosted on GitHub Pages or Netlify)*
 
 ## Technologies Used
 
