@@ -42,6 +42,26 @@ A responsive **Netflix landing page clone** built using **HTML** and **CSS**. Th
 - HTML5
 - CSS3
 
+✨ Highlight: To-Do List App – Systemtron Week 3 ✨
+
+ Project Name: To-Do List App
+ Task: Systemtron Web Development Internship – Week 3
+ Tech Stack: HTML, CSS, JavaScript
+ Theme: Elegant | Responsive | Minimal UI
+
+🔥 Key Features:
+➕ Add new tasks in seconds
+
+✅ Mark tasks as completed
+
+❌ Delete tasks instantly
+
+📱 Fully responsive (mobile & desktop friendly)
+
+🎯 Clean interface for better focus
+
+
+
 ## Author
 
 **Sunyuktha Ravichandran**  
