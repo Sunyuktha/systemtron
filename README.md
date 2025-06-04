@@ -41,7 +41,6 @@ A responsive **Netflix landing page clone** built using **HTML** and **CSS**. Th
 
 - HTML5
 - CSS3
-
 ✨ Highlight: To-Do List App – Systemtron Week 3 ✨
 
  Project Name: To-Do List App
