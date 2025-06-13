@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  background: #f4f4f4;
+  font-family: Arial;
+}
+
+#board {
+  display: grid;
+  grid-template-columns: repeat(7, 60px);
+  gap: 5px;
+  justify-content: center;
+  margin: 20px auto;
+}
+
+.cell {
+  width: 60px;
+  height: 60px;
+  background: #ccc;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.red {
+  background: red;
+}
+
+.yellow {
+  background: yellow;
+}
