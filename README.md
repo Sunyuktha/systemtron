@@ -34,14 +34,14 @@ A responsive **Netflix landing page clone** built using **HTML** and **CSS**. Th
 - ❓ Accordion-style FAQ section
 - 🔗 Footer with multiple link groups
 - 🎨 Clean, readable, and modular code
-  
----
 
 ## 💻 Tech Stack
 
 - HTML5
 - CSS3
 ✨ Highlight: To-Do List App – Systemtron Week 3 ✨
+
+---
 
  Project Name: To-Do List App
  Task: Systemtron Web Development Internship – Week 3
@@ -59,7 +59,32 @@ A responsive **Netflix landing page clone** built using **HTML** and **CSS**. Th
 
 🎯 Clean interface for better focus
 
+---
 
+# 🎮 Connect Four Game
+
+A web-based implementation of the classic **Connect Four** game using **HTML, CSS, and JavaScript**.  
+This project was developed as part of **Task 4** for the **Systemtron Web Development Internship**.
+
+---
+
+## 🧩 Game Features
+
+- 🔴🟡 Two-player turn-based game
+- 🎯 6 rows × 7 columns grid layout
+- ✅ Win detection (horizontal, vertical, and diagonal)
+- 🔁 Reset functionality to restart the game
+- 📱 Responsive design for various screen sizes
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – For structure  
+- **CSS3** – For styling the board and UI  
+- **JavaScript (ES6)** – For game logic and DOM manipulation
+
+---
 
 ## Author
 
